@@ -1,1 +1,1 @@
-"# Plan lekcji" 
+# Plan-lekcji
